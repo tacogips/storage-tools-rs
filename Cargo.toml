@@ -1,5 +1,5 @@
 [package]
-name = "storage-tools-rs"
+name = "storage-tools"
 version = "0.1.0"
 authors = ["tacogips <me@tacogips.me>"]
 edition = "2018"
