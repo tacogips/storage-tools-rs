@@ -1,0 +1,5 @@
+
+target
+**/target
+**/*.jpg
+**/*service_account.json
