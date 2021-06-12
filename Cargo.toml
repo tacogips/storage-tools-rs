@@ -23,11 +23,11 @@ http = "0.2"
 flate2 = "1.0"
 
 [dependencies.tokio]
-version = "1.0"
+version = "1"
 features = ["macros", "rt"]
 default-features = false
 
 [dev-dependencies]
-tokio-test = "0.4.0"
+tokio-test = "0.4"
 uuid = { version="0.8" ,features =["v4", "serde"] }
 
