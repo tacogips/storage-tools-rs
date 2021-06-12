@@ -25,5 +25,6 @@ enum_str! {
         Jpeg = "image/jpeg",
         Jsonl = "application/json-seq",
         Json = "application/json",
+        Mp4 = "video/mp4",
     }
 }
